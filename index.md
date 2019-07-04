@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+欢迎qwq
  <html lang="en">
  <head>
      <meta charset="UTF-8">
